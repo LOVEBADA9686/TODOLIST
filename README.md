@@ -3,7 +3,7 @@
 index.html
 --------------------------------------------------------------------
 
-
+/*
 <!DOCTYPE html>
 <head>
 	<meta charset="UTF-8">
@@ -25,3 +25,4 @@ index.html
     <script src="todo.js"></script>
 </body>
 </html>
+*/
